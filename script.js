@@ -21,6 +21,7 @@ function appendOperator(op) {
     currentInput = "";
 }
 
+
 function calculateResult() {
     if (previousInput === "" || currentInput === "") return;
     let result;

@@ -56,8 +56,8 @@ button:active {
 }
 
 .gray {
-    background: #a5a5a5;
-    color: black;
+    background: #333;
+    color: white;
 }
 
 .dark {
@@ -66,7 +66,7 @@ button:active {
 }
 
 .orange {
-    background: #ff9f0a;
+    background: #0a47ff;
     color: white;
 }
 
